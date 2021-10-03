@@ -2,13 +2,13 @@
 
 The DiamondFire Noble rank.
 
-## Plots:
+## Plots
 Players with this rank receive the following plots.
 
 - 2 Basic Plots (50x50) (1 from default + 1 from Noble)
 - 1 Large Plot (100x100)
 
-## Code Actions:
+## Code Actions
 This rank unlocks exclusive code features.
 
 - [AttackAnimation](CodeBlocks/AttackAnimation.md)
