@@ -8,4 +8,4 @@ This wiki is for showing solutions to the most common of problems inside of Diam
 
 ## Page missing? 404?
 
-This means you have either misspelled the link, or the article does not exist (yet). If you really need information that would be on this page, please message *RyanLand#0002* on Discord.
+This means you have either misspelled the link, or the article does not exist (yet). If you really need information that would be on this page, please message *TechStreet#3250* on Discord.
